@@ -1,3 +1,11 @@
+# ignore
+
+pyenv/
+path.json
+shap_e_model_cache
+
+# Node
+
 # Logs
 logs
 *.log
